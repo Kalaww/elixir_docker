@@ -22,4 +22,4 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 elixir_docker-*.tar
 
-./.elixir_ls
+.elixir_ls
